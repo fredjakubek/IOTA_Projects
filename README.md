@@ -2,7 +2,7 @@
 Building projects on the IOTA Tangle using the PyOTA-library 
 
 ## IOTA Charging Station using the Raspberry pi 3 b+
-The project uses the PyOTA library to convert a Raspberry pi 3 b+ into a payment-terminal on the IOTA tangle to enable the purchase of the use of an electric vehicle charging station.
+The project uses the PyOTA library to convert a Raspberry Pi 3 b+ into a payment-terminal on the IOTA tangle to enable the purchase of the use of an electric vehicle charging station.
 This project is an implementation of the tutorial series by Hugo Gregersen posted on [Medium] (https://medium.com/@hugogregersen) and his [GitHub page](https://github.com/huggre/). 
 
 ## IOTA Charging Station using the ESP8266 enabled WiFi module
